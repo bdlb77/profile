@@ -22,6 +22,29 @@ body {
 	padding: 20px;
 	border: 2px solid;
 }
+
+#sidebar{
+	
+	background-color: #384047;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 100px;
+    text-align: center;
+}
+#sidebar ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+#icon-big{
+	margin-top: 20px;
+	font-size: 25px;
+	line-height: 50px;
+	display: block;
+}
+
 a {
 	text-decoration: none;
 	cursor: pointer;
